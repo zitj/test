@@ -1,1 +1,2 @@
 New file! Now edited!
+Creating merge conflicts on purpose!
