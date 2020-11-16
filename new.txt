@@ -1,2 +1,6 @@
 New file! Now edited!
+<<<<<<< HEAD
 Creating merge conflicts on purpose!
+=======
+One more edit!
+>>>>>>> cb6a022477f4b528a838f402e471dec165572613
